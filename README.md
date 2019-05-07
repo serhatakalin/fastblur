@@ -1,1 +1,2 @@
-FastBlur
+  UIImageView.appendBlur()
+  UIImageView.removeBlur()
