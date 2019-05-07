@@ -1,2 +1,4 @@
+```
   UIImageView.appendBlur()
   UIImageView.removeBlur()
+```
